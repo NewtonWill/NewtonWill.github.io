@@ -602,6 +602,15 @@ progress {
   height: auto;
 }
 
+.img-fluid2 {
+  max-width: 100%;
+  height: auto;
+  /* border-radius: 50px; */
+  margin: 10px;
+  object-fit: cover;
+  /* border: 2px solid black; */
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
